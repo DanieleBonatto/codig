@@ -177,6 +177,7 @@
        
       default: printf("ATRIBUTO INVÁLIDO!\n");
          break;
-      }
+    }
       return 0;
-   }
+    
+    }
